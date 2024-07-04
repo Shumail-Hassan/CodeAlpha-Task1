@@ -23,8 +23,3 @@ cursor.execute(query)
 # query = "INSERT INTO sys_command VALUES (null,'Visual Studio', 'C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\Common7\\IDE\\devenv.exe')"
 # cursor.execute(query)
 # con.commit()
-
-# Adding contact(s)
-# query = "INSERT INTO contacts VALUES (null,'Nasar', '+923312829289',null)"
-# cursor.execute(query)
-# con.commit()
