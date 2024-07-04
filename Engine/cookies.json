@@ -1,0 +1,67 @@
+[
+    {
+        "domain": ".huggingface.co",
+        "expirationDate": 1751615071,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "__stripe_mid",
+        "path": "/",
+        "sameSite": "strict",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "f36db23d-c7c4-4ed0-94c8-45b05cf28a3cd9325c"
+    },
+    {
+        "domain": ".huggingface.co",
+        "expirationDate": 1751615070.827287,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "token",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "rgTxZMIMYyMhgbBDaevternCHFnMKCxbQAeAzdIYhidkmLSHLoaqmQyifnHJdkJiWdKFHACVQOoORVQYBotLQGunjKhHNJLJUdILMdCiXXqgJwfpmmHwLOTWhtfQNsKg"
+    },
+    {
+        "domain": ".huggingface.co",
+        "expirationDate": 1720424668,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "aws-waf-token",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "ff9f6a6e-35bc-4232-bf11-622ced8cc98a:BQoAgZg1yTSiAAAA:5/r6nSXz6+dEAofCDQx0gno3DfNfI7VdA5bcyXgstgZgi8eXSIpX8bTlmOCJUL88iUb1oAQYwlgxWAGTY5HzGUeQV8epKex0yNxvljluxzOVKtugq11kNXw2/dI69Nr3uHdrlMmA/gnDezNZgWV1IJrZdQelKOO0Yr4wiij5UbNGEMgyBg0UFq8uFUhU3s7Dgca+3rc4G6ZzcstdFwziYQlfsx0gyvZp9fDAdwwRUqqkmv5kRBerlKKv"
+    },
+    {
+        "domain": "huggingface.co",
+        "expirationDate": 1721288767.65078,
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "hf-chat",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "e213237c-6bf7-42c2-9cd1-f16059d32cbb"
+    },
+    {
+        "domain": "huggingface.co",
+        "expirationDate": 1751615070.826921,
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "token",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "rgTxZMIMYyMhgbBDaevternCHFnMKCxbQAeAzdIYhidkmLSHLoaqmQyifnHJdkJiWdKFHACVQOoORVQYBotLQGunjKhHNJLJUdILMdCiXXqgJwfpmmHwLOTWhtfQNsKg"
+    }
+]
